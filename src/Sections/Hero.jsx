@@ -76,7 +76,7 @@ const Hero = () => {
                     className="mt-14 flex flex-col sm:flex-row gap-6 w-full sm:w-auto px-8 sm:px-0"
                 >
                     <button className="px-14 py-4 bg-[#D4AF37] text-black font-boldonse font-bold tracking-[0.2em] hover:bg-white transition-all duration-500 shadow-[0_10px_30px_rgba(212,175,55,0.2)]">
-                        JOIN EVENT
+                        Resources
                     </button>
                     <button className="px-14 py-4 border-2 border-[#D4AF37] text-[#D4AF37] font-boldonse font-bold tracking-[0.2em] hover:bg-[#D4AF37] hover:text-black transition-all duration-500">
                         LEARN MORE
