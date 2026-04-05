@@ -1,5 +1,9 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
+import Header from './Components/Header'
+import Footer from './Components/Footer'
+import Hero from './Sections/Hero'
+import Why from './Sections/Why'
+import Impact from './Sections/Impact'
 
 function App() {
   return (
