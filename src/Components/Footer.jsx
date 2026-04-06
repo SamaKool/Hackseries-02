@@ -17,7 +17,7 @@ const Footer = () => {
 
     return (
         <footer
-            className="fixed bottom-0 left-0 right-0 min-h-[60vh] md:min-h-[65vh] overflow-hidden text-white flex flex-col justify-between z-0 pointer-events-none"
+            className="relative w-full overflow-hidden text-white flex flex-col justify-between z-0"
             style={{ background: "#800000" }}
         >
             <div
@@ -41,7 +41,7 @@ const Footer = () => {
                     <img
                         src={AcesLogo}
                         alt="ACES Logo"
-                        className="w-40 h-40 md:w-56 md:h-56 object-contain drop-shadow-2xl"
+                        className="w-40 h-40 md:w-46 md:h-46 object-contain drop-shadow-2xl"
                     />
                 </div>
 
